@@ -9,7 +9,7 @@ A verified contributor will sync your photo and close the issue.
 ## Removing a Photo
 
 If you wish to remove a photo, [submit an issue](https://github.com/redboxphotos/photogallery/issues) with the filename (e.g., `image123`).  
-A contributor will remove your photo and close the issue.  
+A verified contributor will remove your photo and close the issue.  
 *closed issues are deleted after 30 days.*
 
 ## License
