@@ -1,14 +1,14 @@
-# photogallery
+# Photo Gallery
 
-## Adding a photo
+## Adding a Photo
 
-Add it to src/static/images. Update \_index.json with the new count.
+To add a photo to the gallery, please [submit an issue](https://github.com/RedboxTinkering/photogallery/issues) with your photo(s) attached. A contributor will sync your photo and close the issue.
 
-## Remove my photo
+## Removing a Photo
 
-Make a pull request here.
+If you wish to remove a photo, [submit an issue](https://github.com/RedboxTinkering/photogallery/issues) with the filename (e.g., `image123`). A contributor will remove your photo and close the issue.
 
 ## License
 
-licensed under the **Attribution-ShareAlike 4.0 International** license.  
-View License: [https://redbox.wiki/en/LICENSE](https://redbox.wiki/en/LICENSE).
+This gallery is licensed under the **Attribution-ShareAlike 4.0 International** license.  
+You can view the full license here: [https://redbox.wiki/en/LICENSE](https://redbox.wiki/en/LICENSE).
