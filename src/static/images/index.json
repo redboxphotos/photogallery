@@ -1,5 +1,5 @@
 {
     "totalCount": 171,
-    "format": "image{{num}}.png",
-    "__vers__": 3
+    "format": "image{{num}}.webp",
+    "__vers__": 4
 }
