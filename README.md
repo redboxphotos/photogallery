@@ -15,4 +15,6 @@ A verified contributor will remove your photo and close the issue.
 ## License
 
 This gallery is licensed under the **Attribution-ShareAlike 4.0 International** license.  
-You can view the full license here: [https://redbox.wiki/en/LICENSE](https://redbox.wiki/en/LICENSE).
+You can view the full license here [https://raw.githubusercontent.com/unRedbox/Wiki/refs/heads/master/LICENSE.txt](https://raw.githubusercontent.com/unRedbox/Wiki/refs/heads/master/LICENSE.txt)
+
+
